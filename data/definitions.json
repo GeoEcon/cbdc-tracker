@@ -1,0 +1,73 @@
+{
+  "use_case": {
+    "name": "Use case",
+    "title": "Purpose of CBDC.",
+    "categories": [
+      {
+        "name": "Retail",
+        "definition": "The CBDC is available to the general public for all transactions."
+      },
+      {
+        "name": "Wholesale",
+        "definition": "The CBDC is used by financial institutions for bank-to-bank payment transactions and settlements."
+      }
+    ]
+  },
+  "architecture": {
+    "name": "Architecture",
+    "title": "The legal structure of claims.",
+    "chart_note": "The bar chart below is calculated only for retail CBDCs.",
+    "categories": [
+      {
+        "name": "Direct CBDC",
+        "definition": "The CBDC is a direct claim on the central bank, meaning banks and the general public can deposit their money and make payments directly with the central bank."
+      },
+      {
+        "name": "Hybrid CBDCC",
+        "definition": "This is an intermediate solution where the CBDC is a direct claim on the central bank but payments and real-time transactions are facilitated by financial intermediaries such as private banks."
+      },
+      {
+        "name": "Synthetic CBDCC",
+        "definition": "The CBDC is not a direct claim on the central bank, claims are held by private financial institutions."
+      }
+    ]
+  },
+  "access": {
+    "name": "Access",
+    "title": "An account-based system or digital tokens determines how users are represented and make transactions in the payments system. The classic example of a token-based system is cash, and an example of an account-based system is bank deposits.",
+    "chart_note": "The bar chart below is calculated only for retail CBDCs."
+  },
+  "infrastructure": {
+    "name": "Infrastructure",
+    "title": "The infrastructure could be based on a conventional centrally controlled database, or on a distributed ledger technology (DLT). Conventional and DLT-based infrastructures often store data multiple times and in physically separate locations. The main difference between them lies in how the transactions are verified and secured."
+  },
+  "status": {
+    "name": "Status",
+    "categories": [
+      {
+        "name": "Research",
+        "definition": "Established working groups to explore the use cases, impact, and feasibility of a CBDC."
+      },
+      {
+        "name": "Development",
+        "definition": "Initiated technical build and early testing of a CBDC in controlled environments."
+      },
+      {
+        "name": "Pilot",
+        "definition": "Initiated small-scale testing of a CBDC in real world with a limited number of participants."
+      },
+      {
+        "name": "Launched",
+        "definition": "Issued a CBDC for widespread retail and/or wholesale use."
+      },
+      {
+        "name": "Cancelled",
+        "definition": "CBDC initiative decommissioned."
+      },
+      {
+        "name": "Other",
+        "definition": "No formal CBDC research but ongoing development of digital wallets and new payments infrastructure."
+      }
+    ]
+  }
+}
