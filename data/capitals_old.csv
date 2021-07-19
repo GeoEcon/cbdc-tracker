@@ -2,7 +2,7 @@ country,name,lat,lon,country_code,continent_name
 Somaliland,Hargeisa,9.55,44.050000,NULL,Africa
 South Georgia and South Sandwich Islands,King Edward Point,-54.283333,-36.500000,GS,Antarctica
 French Southern and Antarctic Lands,Port-aux-Français,-49.35,70.216667,TF,Antarctica
-Palestine,Ramallah,31.90,35.10,PS,Asia
+Palestine,Ramallah,31.90,35.20,PS,Asia
 Aland Islands,Mariehamn,60.116667,19.900000,AX,Europe
 Nauru,Yaren,-0.5477,166.920867,NR,Australia
 Saint Martin,Marigot,18.0731,-63.082200,MF,North America
@@ -65,7 +65,7 @@ Cuba,Havana,23.116666666666667,-82.350000,CU,North America
 Curaçao,Willemstad,12.1,-68.916667,CW,North America
 Cyprus,Nicosia,35.166666666666664,33.366667,CY,Europe
 Czech Republic,Prague,50.083333333333336,14.466667,CZ,Europe
-Denmark,Copenhagen,55.666666666666664,11.583333,DK,Europe
+Denmark,Copenhagen,55.666666666666664,12.583333,DK,Europe
 Djibouti,Djibouti,11.583333333333334,43.150000,DJ,Africa
 Dominica,Roseau,15.3,-61.400000,DM,North America
 Dominican Republic,Santo Domingo,18.466666666666665,-69.900000,DO,North America
@@ -80,7 +80,7 @@ Falkland Islands,Stanley,-51.7,-57.850000,FK,South America
 Faroe Islands,Torshavn,62,-6.766667,FO,Europe
 Fiji,Suva,-18.133333333333333,178.416667,FJ,Australia
 Finland,Helsinki,60.166666666666664,24.933333,FI,Europe
-France,Paris,47.86666666666667,2.333333,FR,Europe
+France,Paris,48.86666666666667,2.333333,FR,Europe
 French Polynesia,Papeete,-17.533333333333335,-149.566667,PF,Australia
 Gabon,Libreville,0.38333333333333336,9.450000,GA,Africa
 Gambia,Banjul,13.45,-16.566667,GM,Africa
@@ -108,7 +108,7 @@ Iran,Tehran,35.7,51.416667,IR,Asia
 Iraq,Baghdad,33.333333333333336,44.400000,IQ,Asia
 Ireland,Dublin,53.31666666666667,-6.233333,IE,Europe
 Isle of Man,Douglas,54.15,-4.483333,IM,Europe
-Israel,Tel Aviv,32.47,34.84,IL,Asia
+Israel,Tel Aviv,32.17,34.84,IL,Asia
 Italy,Rome,41.9,12.483333,IT,Europe
 Jamaica,Kingston,18,-76.800000,JM,North America
 Japan,Tokyo,35.68333333333333,139.750000,JP,Asia
@@ -129,7 +129,7 @@ Lesotho,Maseru,-29.316666666666666,27.483333,LS,Africa
 Liberia,Monrovia,6.3,-10.800000,LR,Africa
 Libya,Tripoli,32.88333333333333,13.166667,LY,Africa
 Liechtenstein,Vaduz,47.13333333333333,9.516667,LI,Europe
-Lithuania,Vilnius,54.68333333333333,23.316667,LT,Europe
+Lithuania,Vilnius,54.68333333333333,25.316667,LT,Europe
 Luxembourg,Luxembourg,49.6,6.116667,LU,Europe
 Macedonia,Skopje,42,21.433333,MK,Europe
 Madagascar,Antananarivo,-18.916666666666668,47.516667,MG,Africa
@@ -161,7 +161,7 @@ Nigeria,Abuja,9.083333333333334,7.533333,NG,Africa
 Niue,Alofi,-19.016666666666666,-169.916667,NU,Australia
 Norfolk Island,Kingston,-29.05,167.966667,NF,Australia
 Northern Mariana Islands,Saipan,15.2,145.750000,MP,Australia
-Norway,Oslo,61.916666666666664,10.750000,NO,Europe
+Norway,Oslo,59.916666666666664,10.750000,NO,Europe
 Oman,Muscat,23.616666666666667,58.583333,OM,Asia
 Pakistan,Islamabad,33.68333333333333,73.050000,PK,Asia
 Palau,Melekeok,7.483333333333333,134.633333,PW,Australia
@@ -225,7 +225,7 @@ Tuvalu,Funafuti,-8.516666666666667,179.216667,TV,Australia
 Uganda,Kampala,0.31666666666666665,32.550000,UG,Africa
 Ukraine,Kyiv,50.43333333333333,30.516667,UA,Europe
 United Arab Emirates,Abu Dhabi,24.466666666666665,54.366667,AE,Asia
-United Kingdom,London,52.5,-2.283333,GB,Europe
+United Kingdom,London,51.5,-0.083333,GB,Europe
 United States of America,Washington D.C.,38.883333,-77.000000,US,Central America
 Uruguay,Montevideo,-34.85,-56.166667,UY,South America
 Uzbekistan,Tashkent,41.31666666666667,69.250000,UZ,Asia
@@ -241,4 +241,4 @@ US Minor Outlying Islands,Washington, D.C.,38.883333,-77.000000,UM,Australia
 Antarctica,N/A,0,0.000000,AQ,Antarctica
 Northern Cyprus,North Nicosia,35.183333,33.366667,NULL,Europe
 British Indian Ocean Territory,Diego Garcia,-7.3,72.400000,IO,Africa
-Euro Area,Strasbourg,49.78,9.75,,
+Euro Area,Strasbourg,48.58,7.75,,
