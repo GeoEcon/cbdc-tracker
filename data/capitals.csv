@@ -2,7 +2,7 @@ country,name,lat,lon,country_code,continent_name
 Somaliland,Hargeisa,9.55,44.050000,NULL,Africa
 South Georgia and South Sandwich Islands,King Edward Point,-54.283333,-36.500000,GS,Antarctica
 French Southern and Antarctic Lands,Port-aux-Français,-49.35,70.216667,TF,Antarctica
-Palestine,Ramallah,31.90,35.50,PS,Asia
+Palestine,Ramallah,32.00,35.40,PS,Asia
 Aland Islands,Mariehamn,60.116667,19.900000,AX,Europe
 Nauru,Yaren,-0.5477,166.920867,NR,Australia
 Saint Martin,Marigot,18.0731,-63.082200,MF,North America
@@ -70,7 +70,7 @@ Djibouti,Djibouti,11.583333333333334,43.150000,DJ,Africa
 Dominica,Roseau,15.3,-61.400000,DM,North America
 Dominican Republic,Santo Domingo,18.466666666666665,-69.900000,DO,North America
 Ecuador,Quito,-0.21666666666666667,-78.500000,EC,South America
-Egypt,Cairo,30.05,31.250000,EG,Africa
+Egypt,Cairo,26.05,30.250000,EG,Africa
 El Salvador,San Salvador,13.7,-89.200000,SV,Central America
 Equatorial Guinea,Malabo,3.75,8.783333,GQ,Africa
 Eritrea,Asmara,15.333333333333334,38.933333,ER,Africa
@@ -108,7 +108,7 @@ Iran,Tehran,35.7,51.416667,IR,Asia
 Iraq,Baghdad,33.333333333333336,44.400000,IQ,Asia
 Ireland,Dublin,53.31666666666667,-6.233333,IE,Europe
 Isle of Man,Douglas,54.15,-4.483333,IM,Europe
-Israel,Tel Aviv,32.47,34.84,IL,Asia
+Israel,Tel Aviv,30.47,34.84,IL,Asia
 Italy,Rome,41.9,12.483333,IT,Europe
 Jamaica,Kingston,18,-76.800000,JM,North America
 Japan,Tokyo,35.68333333333333,139.750000,JP,Asia
@@ -124,7 +124,7 @@ Kuwait,Kuwait City,29.366666666666667,47.966667,KW,Asia
 Kyrgyzstan,Bishkek,42.86666666666667,74.600000,KG,Asia
 Laos,Vientiane,17.966666666666665,102.600000,LA,Asia
 Latvia,Riga,56.95,24.100000,LV,Europe
-Lebanon,Beirut,33.86666666666667,35.500000,LB,Asia
+Lebanon,Beirut,34.26666666666667,35.800000,LB,Asia
 Lesotho,Maseru,-29.316666666666666,27.483333,LS,Africa
 Liberia,Monrovia,6.3,-10.800000,LR,Africa
 Libya,Tripoli,32.88333333333333,13.166667,LY,Africa
@@ -148,7 +148,7 @@ Monaco,Monaco,43.733333333333334,7.416667,MC,Europe
 Mongolia,Ulaanbaatar,47.916666666666664,106.916667,MN,Asia
 Montenegro,Podgorica,42.43333333333333,19.266667,ME,Europe
 Montserrat,Plymouth,16.7,-62.216667,MS,North America
-Morocco,Rabat,34.016666666666666,-6.816667,MA,Africa
+Morocco,Rabat,32.016666666666666,-6.816667,MA,Africa
 Mozambique,Maputo,-25.95,32.583333,MZ,Africa
 Namibia,Windhoek,-22.566666666666666,17.083333,NA,Africa
 Nepal,Kathmandu,27.716666666666665,85.316667,NP,Asia
@@ -187,7 +187,7 @@ Saint Vincent and the Grenadines,Kingstown,13.133333333333333,-61.216667,VC,Cent
 Samoa,Apia,-13.816666666666666,-171.766667,WS,Australia
 San Marino,San Marino,43.93333333333333,12.416667,SM,Europe
 Sao Tome and Principe,Sao Tome,0.3333333333333333,6.733333,ST,Africa
-Saudi Arabia,Riyadh,24.65,46.700000,SA,Asia
+Saudi Arabia,Riyadh,24.65,44.700000,SA,Asia
 Senegal,Dakar,14.733333333333333,-17.633333,SN,Africa
 Rebuplic of Serbia,Belgrade,44.833333333333336,20.500000,RS,Europe
 Seychelles,Victoria,-4.616666666666667,55.450000,SC,Africa
@@ -217,14 +217,14 @@ Timor-Leste,Dili,-8.583333333333334,125.600000,TL,Asia
 Togo,Lome,6.116666666666666,1.216667,TG,Africa
 Tonga,Nuku'alofa,-21.133333333333333,-175.200000,TO,Australia
 Trinidad and Tobago,Port of Spain,10.65,-61.516667,TT,North America
-Tunisia,Tunis,36.8,10.183333,TN,Africa
+Tunisia,Tunis,32.8,10.183333,TN,Africa
 Turkey,Ankara,39.93333333333333,32.866667,TR,Europe
 Turkmenistan,Ashgabat,37.95,58.383333,TM,Asia
 Turks and Caicos Islands,Grand Turk,21.466666666666665,-71.133333,TC,North America
 Tuvalu,Funafuti,-8.516666666666667,179.216667,TV,Australia
 Uganda,Kampala,0.31666666666666665,32.550000,UG,Africa
-Ukraine,Kyiv,50.43333333333333,30.516667,UA,Europe
-United Arab Emirates,Abu Dhabi,24.466666666666665,54.366667,AE,Asia
+Ukraine,Kyiv,48.43333333333333,32.516667,UA,Europe
+United Arab Emirates,Abu Dhabi,23.166666666666665,54.366667,AE,Asia
 United Kingdom,London,52.5,-2.283333,GB,Europe
 United States of America,Washington D.C.,38.883333,-77.000000,US,Central America
 Uruguay,Montevideo,-34.85,-56.166667,UY,South America
